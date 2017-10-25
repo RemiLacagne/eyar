@@ -1,3 +1,4 @@
 Variables :
 
 - cpt : compteur de tours
+- typeCombat : Type de combat choisi sur l'ecran de selection de combat
