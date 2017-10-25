@@ -1,4 +1,5 @@
 Variables :
 
-- cpt : compteur de tours
+- Nville : nom des villes
+- cptTour : compteur de tours
 - typeCombat : Type de combat choisi sur l'ecran de selection de combat
